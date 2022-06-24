@@ -19,7 +19,7 @@
 ## Como rodas a aplicação
   + Como o projeto ainda não está pronto, é necessário compilar o arquivo "Janela.java" com os seguintes comando </br>
   `javac Janela.java` </br>
-  `javac Menu.java`
+  `javac Menu.java` </br>
   `javac OuvidoAdicionar.java`
   + Após compilado execute com o seguinte comando </br>
   `java Main`
