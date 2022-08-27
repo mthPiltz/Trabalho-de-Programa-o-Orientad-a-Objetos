@@ -3,7 +3,7 @@
 >Status: Em desenvolvimento 👨‍💻
 
 ##  Tecnologias usadas
-  + O projeto todo é feito em Java 17.0.2
+  + O projeto todo é feito em Java 8
 
 
 ## Sobre o desenvolvimento
