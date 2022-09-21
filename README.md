@@ -1,6 +1,7 @@
 # Trabalho de Linguagem de Programação Orientada a Objetos
 
->Status: Em desenvolvimento 👨‍💻
+>Status: Em desenvolvimento 👨‍💻 </br>
+>No momento o projeto está parado devido a outras demandas da faculdade, pretendo futuramente termina-lo
 
 ##  Tecnologias usadas
   + O projeto todo é feito em Java 8
